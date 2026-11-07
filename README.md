@@ -22,6 +22,12 @@ de Programación Móvil II.
 - Consultar contadores de tareas.
 - Filtrar tareas pendientes y completadas.
 - Validar que no se agreguen tareas vacías.
+- Elegir entre 20 íconos para identificar las tareas.
+- Asignar prioridades alta, media y baja.
+- Ordenar automáticamente las tareas según prioridad y estado.
+- Visualizar cinco tareas de ejemplo al iniciar la aplicación.
+- Utilizar una interfaz moderna con colores e íconos.
+
 
 ## Tecnologías utilizadas
 
